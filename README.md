@@ -1,3 +1,7 @@
+# LECTURE 5 | EXERCISE 1 | JAVA 2 by Czechitas
+
+The task of this exercise was to make a form for adding a person to the list, buttons for deleting and displaying the person's details and a subpage with the person's details. On this subpage we had to make the editing of the person on the list possible.
+
 # Lekce 5 – HTML formuláře
 
 Zatím jsme jen zobrazovali data, dnes je konečně začneme také upravovat. Použijeme k tomu HTML formuláře. 
